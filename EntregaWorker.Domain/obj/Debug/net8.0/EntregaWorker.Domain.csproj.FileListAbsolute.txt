@@ -1,0 +1,12 @@
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\bin\Debug\net8.0\EntregaWorker.Domain.deps.json
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\bin\Debug\net8.0\EntregaWorker.Domain.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\bin\Debug\net8.0\EntregaWorker.Domain.pdb
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.csproj.AssemblyReference.cache
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.AssemblyInfoInputs.cache
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.AssemblyInfo.cs
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.csproj.CoreCompileInputs.cache
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\refint\EntregaWorker.Domain.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\EntregaWorker.Domain.pdb
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Domain\obj\Debug\net8.0\ref\EntregaWorker.Domain.dll

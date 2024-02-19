@@ -1,0 +1,15 @@
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\bin\Debug\net8.0\EntregaWorker.Infraestructure.deps.json
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\bin\Debug\net8.0\EntregaWorker.Infraestructure.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\bin\Debug\net8.0\EntregaWorker.Infraestructure.pdb
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\bin\Debug\net8.0\EntregaWorker.Domain.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\bin\Debug\net8.0\EntregaWorker.Domain.pdb
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.csproj.AssemblyReference.cache
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.AssemblyInfoInputs.cache
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.AssemblyInfo.cs
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.csproj.CoreCompileInputs.cache
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.csproj.CopyComplete
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\refint\EntregaWorker.Infraestructure.dll
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\EntregaWorker.Infraestructure.pdb
+D:\TallerMicroservicios\EntregaWorker.Application\EntregaWorker.Infraestructure\obj\Debug\net8.0\ref\EntregaWorker.Infraestructure.dll

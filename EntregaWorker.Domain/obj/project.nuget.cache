@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aCmrFGRM1tG5y55c9lIIMraxKUfC1t5qo/53k8N+vC6lZNTcUpuI4lhaDCFhv170X7PltKCBm2leo8C7U9kxFA==",
+  "success": true,
+  "projectFilePath": "D:\\TallerMicroservicios\\EntregaWorker.Application\\EntregaWorker.Domain\\EntregaWorker.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
