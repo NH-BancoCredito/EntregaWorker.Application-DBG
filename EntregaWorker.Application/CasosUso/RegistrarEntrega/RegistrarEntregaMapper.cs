@@ -13,7 +13,7 @@ namespace EntregaWorker.Application.CasosUso.RegistrarEntrega
         public RegistrarEntregaMapper()
         {
             CreateMap<RegistrarEntregaRequest, Entrega>()
-                .ForMember(dest => dest.EntregaDetalle, map => map.MapFrom(src => src.EntregaDetalle));
+                .ForMember(dest => dest.EntregaDetalle, map => map.MapFrom(src => src.Detalle));
 
             CreateMap<EntregaDetalleRequest, EntregaDetalle>();
         }

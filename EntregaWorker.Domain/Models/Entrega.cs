@@ -14,7 +14,7 @@ namespace EntregaWorker.Domain.Models
             }
             private set { }
         }
-        public string Nombre { get; set; }
+        public string NombreCliente { get; set; }
         public string Direccion { get; set; }
         public string Ciudad { get; set; }
         public virtual IEnumerable<EntregaDetalle> EntregaDetalle { get; set; }

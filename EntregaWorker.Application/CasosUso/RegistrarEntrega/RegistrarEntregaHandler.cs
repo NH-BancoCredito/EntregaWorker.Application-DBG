@@ -23,7 +23,7 @@ namespace EntregaWorker.Application.CasosUso.RegistrarEntrega
             try
             {
                 var entrega = _mapper.Map<Entrega>(request);
-                await _entregaRepository.Registrar(entrega);
+                result = await _entregaRepository.Registrar(entrega);
                 if (result)
                 {
                     return new SuccessResult();

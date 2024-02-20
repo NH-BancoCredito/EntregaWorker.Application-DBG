@@ -43,7 +43,7 @@ namespace EntregaWorker.Infraestructure
                     .Where(item => item.GetInterface(nameof(IRepository)) != null)
                     .First();
 
-                services.AddScoped(repositoryInterfaceType, repositoryType);
+                services.AddSingleton(repositoryInterfaceType, repositoryType);
             }
         }
 

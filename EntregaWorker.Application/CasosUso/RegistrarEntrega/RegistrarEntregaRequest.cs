@@ -7,10 +7,10 @@ namespace EntregaWorker.Application.CasosUso.RegistrarEntrega
     {
         public object Id { get; set; }
         public int IdVenta { get; set; }
-        public string Nombre { get; set; }
+        public string NombreCliente { get; set; }
         public string Direccion { get; set; }
         public string Ciudad { get; set; }
-        public virtual IEnumerable<EntregaDetalleRequest> EntregaDetalle { get; set; }
+        public virtual IEnumerable<EntregaDetalleRequest> Detalle { get; set; }
     }
 
     public class EntregaDetalleRequest
